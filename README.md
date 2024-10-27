@@ -1,4 +1,7 @@
 
+![GaZiKewaYAEjgT0](https://github.com/user-attachments/assets/02cf69f5-6e3f-4884-b50e-8ec8982ab0ea)
+
+
 ✔️ Add task
 
 ✔️ Auto daily
